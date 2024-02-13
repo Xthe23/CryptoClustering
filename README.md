@@ -1,9 +1,9 @@
 ﻿# Crypto Clustering: A Unsupervised Learning Case Study
 This project aims to cluster cryptocurrencies based on their market data to identify patterns and group similar cryptocurrencies together. Using a Jupyter notebook, Crypto_Clustering.ipynb, we explore and analyze cryptocurrency market data to perform clustering.
-
-![App Screenshot](https://github.com/Xthe23/CryptoClustering/blob/main/Resources/img1.png)  
-![App Screenshot](https://github.com/Xthe23/CryptoClustering/blob/main/Resources/img2.png)  
-
+<div align="center">
+    <img src="https://github.com/Xthe23/CryptoClustering/blob/main/Resources/img1.png" width="800" height="400">
+    <img src="https://github.com/Xthe23/CryptoClustering/blob/main/Resources/img2.png" width="800" height="400">
+</div>
 
 ## Overview
 The notebook includes the following key steps:
